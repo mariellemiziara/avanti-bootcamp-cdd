@@ -1,7 +1,6 @@
 # Titanic - Machine Learning from Disaster
 
-![Imagem do Titanic](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg" alt="Imagem do Titanic" width="600"/>
 Este projeto foi desenvolvido como parte de um bootcamp de Ciência de Dados e tem como objetivo prever a sobrevivência dos passageiros do Titanic, aplicando conceitos fundamentais de aprendizado de máquina. Utilizando dados históricos, buscaremos entender quais fatores mais influenciaram as chances de sobrevivência e como construir um modelo preditivo eficiente.
 
 ## Justificativa
